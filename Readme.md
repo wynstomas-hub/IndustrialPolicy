@@ -5,7 +5,7 @@
 
 ---
 
-This repository contains the validated dataset and the Python econometric code used to generate the key visualisations for the analysis of the post-2022 decoupling of the European industrial ecosystem.
+This repository contains the  dataset and the Python econometric code used to generate the key visualisations for the analysis of the post-2022 decoupling of the European industrial ecosystem.
 
 Historically, Europe's foundational chemical industry functioned as a strategic, vertically integrated anchor, cointegrated in statistical lockstep with high-volume domestic manufacturing sectors (Automotive, Plastics/Rubber, and Construction). This project utilises advanced rolling econometric models to mathematically demonstrate the terminal collapse of this relationship, validating the hypothesis of mass import substitution for foundational molecules.
 
